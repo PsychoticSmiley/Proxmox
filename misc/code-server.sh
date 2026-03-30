@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-# Copyright (c) 2021-2024 tteck
-# Author: tteck (tteckster)
+# Copyright (c) 2021-2024 psychoticsmiley
+# Author: psychoticsmiley (psychoticsmileyster)
 # License: MIT
-# https://github.com/tteck/Proxmox/raw/main/LICENSE
+# https://github.com/psychoticsmiley/Proxmox/raw/main/LICENSE
 
 function header_info {
     cat <<"EOF"
